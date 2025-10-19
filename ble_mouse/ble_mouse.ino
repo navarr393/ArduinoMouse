@@ -1,3 +1,5 @@
+# this file works on the Arduino Nano ESP32
+
 #include <BleMouse.h>
 
 BleMouse bleMouse("ESP32 BLE Mouse", "Espressif", 100);
